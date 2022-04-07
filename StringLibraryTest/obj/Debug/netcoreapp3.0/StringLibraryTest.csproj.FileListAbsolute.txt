@@ -97,3 +97,4 @@
 /Users/nikolajoverin/Desktop/alinaoverina/my_projects/mod-lab00-training/mod-lab04-life/StringLibraryTest/obj/Debug/netcoreapp3.0/StringLibraryTest.dll
 /Users/nikolajoverin/Desktop/alinaoverina/my_projects/mod-lab00-training/mod-lab04-life/StringLibraryTest/obj/Debug/netcoreapp3.0/StringLibraryTest.pdb
 /Users/nikolajoverin/Desktop/alinaoverina/my_projects/mod-lab00-training/mod-lab04-life/StringLibraryTest/obj/Debug/netcoreapp3.0/StringLibraryTest.genruntimeconfig.cache
+/Users/nikolajoverin/Desktop/alinaoverina/my_projects/mod-lab00-training/mod-lab04-life/StringLibraryTest/obj/Debug/netcoreapp3.0/StringLibraryTest.csproj.CopyComplete
